@@ -1,0 +1,17 @@
+Encapsulation is a mechanism to bundle the data and code acting on the data together as a single unit. there are two steps to achieve encapsulation in Java
+
+declare the variable of a class as private
+Provide a Public setter and getter method to modify and view the values of the variables.
+ 
+
+Advantages of encapsulation 
+Loosely coupled code 
+Better access control and security 
+
+Abstract class: is a restricted class that cannot be used to create objects (to access it, 
+it must be inherited from another class).
+
+Abstract method: 
+can only be used in an abstract class, and it does not have a body.
+The body is provided by the subclass (inherited from).
+An abstract class can have both abstract and regular methods:

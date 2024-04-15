@@ -1,0 +1,16 @@
+Abstraction-->
+By using the Abstraction We can hiding the Implementation of application and Showing the functionlity of the
+application is known as Abstraction.
+*->By using the Abstraction class we can achive 0 to 100 percent Abstraction
+and by Using the Interface we can achive 100 percent of Abstraction.
+
+Advantages of abstraction 
+Reduces complexity
+Avoid code duplication 
+Ease the burden of maintenance
+Increase security and confidentiality 
+
+Interfaces-->
+Another way to achieve abstraction in Java, is with interfaces.
+
+An interface is a completely "abstract class" that is used to group related methods with empty bodies:
